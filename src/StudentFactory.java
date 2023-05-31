@@ -4,10 +4,10 @@ public class StudentFactory {
         Student student = new Student();
 
         // Set the name
-        student.setName("John Doe");
+        student.setName("Naresh Goud");
 
         // Get the name
         String name = student.getName();
-        System.out.println("Name: " + name); // Output: Name: John Doe
+        System.out.println("Naresh Goud: " + name);
     }
 }
